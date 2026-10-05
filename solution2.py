@@ -120,7 +120,7 @@ def find_lotID(cur_number: int, lotID: list[str], levels: list[str], swap: dict[
 
 """建立交換表"""
 swap = defaultdict(dict)
-for V_i, V_j, level in example_1:
+for V_i, V_j, level in Horizontal_line_info:
     swap[level][V_i] = V_j
     swap[level][V_j] = V_i
 
