@@ -4,5 +4,5 @@
 
 ## 文件說明
 
-🔗 [鬼腳圖pdf](NTUT_Applied_Network_Lab_Homework/八卦鬼腳圖抽籤盤_碩0.pdf)  
+🔗 [鬼腳圖pdf](.八卦鬼腳圖抽籤盤_碩0.pdf)  
 
